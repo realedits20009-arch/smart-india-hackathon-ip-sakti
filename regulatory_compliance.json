@@ -1,0 +1,53 @@
+[
+  {
+    "id": "REG-BDA-001",
+    "title": "Biological Diversity Act 2002 - Section 6 & NBA Form III Mandatory Approval for IPR",
+    "act": "Biological Diversity Act, 2002 (Act No. 18 of 2003 as amended by Biological Diversity (Amendment) Act, 2023)",
+    "section": "Section 6 (Application for Intellectual Property Rights)",
+    "statutory_text": "Section 6(1): No person shall apply for any intellectual property right, by whatever name called, in or outside India for any invention based on any research or information on a biological resource obtained from India without obtaining the previous approval of the National Biodiversity Authority before the grant of such intellectual property right.",
+    "analysis": "Any Indian or foreign inventor who develops an invention using Indian biological resources (plants, seeds, extracts, traditional microbial strains) MUST obtain prior approval from the National Biodiversity Authority (NBA) by filing Form III. Under the 2023 Amendment, the approval must be obtained prior to the grant of the patent (for Indian entities) or prior to application (for foreign entities/NRI/non-Indian controlled companies under Section 3(2)). Failure to comply attracts Section 55 penal provisions and can lead to immediate revocation of patent under Section 64(1)(p) of the Patents Act.",
+    "procedure": [
+      "Step 1: Identify if biological resource is sourced from India (e.g. Curcuma longa, Withania somnifera, Boswellia serrata).",
+      "Step 2: File Patent Application with Indian Patent Office declaring geographical origin (Form 1).",
+      "Step 3: Submit Form III application to NBA along with fee.",
+      "Step 4: Execute Access and Benefit Sharing (ABS) agreement with NBA (specifying 0.1% - 0.5% royalty on ex-factory sales or 2.0% - 5.0% on upfront fee / milestones).",
+      "Step 5: NBA issues No-Objection / Approval order to Controller General of Patents before final patent grant."
+    ],
+    "exemption_notes": "Value-added products (VAPs) and codified traditional Ayush formulations used by local vaidyas/ayurvedic practitioners for personal healthcare are exempted from access permissions, but commercial IP patents strictly require NBA Form III clearance.",
+    "keywords": ["Biological Diversity Act", "Section 6", "NBA", "National Biodiversity Authority", "Form III", "Access and Benefit Sharing", "ABS", "biological resources"]
+  },
+  {
+    "id": "REG-DCA-002",
+    "title": "Drugs and Cosmetics Act 1940 - Chapter IV-A & Rule 158-B (Licensing of ASU Drugs)",
+    "act": "Drugs and Cosmetics Rules, 1945 (under Drugs and Cosmetics Act, 1940)",
+    "section": "Rule 158-B (Guidelines for issue of license with respect to Ayurvedic, Siddha or Unani drugs)",
+    "statutory_text": "Rule 158-B classifies ASU (Ayurveda, Siddha, Unani) medicines into distinct categories for regulatory licensing: (I) Classical / Shastriya Ayurvedic Medicines, (II) Proprietary Ayurvedic Medicines (Patent or Proprietary medicines under Section 3(h)), (III) Extract-based formulations, (IV) Hydro-alcoholic and new dosage forms.",
+    "analysis": "Rule 158-B outlines specific evidentiary requirements for securing a manufacturing license from the State Ayush Licensing Authority (SALA):",
+    "licensing_categories": {
+      "Category_A_Classical": "Medicines manufactured strictly in accordance with the formula described in authoritative Ayurvedic treatises listed in the First Schedule. Requirement: Textual reference citation, no clinical trial data required for ancient classical indications, proof of adherence to API standards.",
+      "Category_B_Classical_New_Dosage": "Classical formulations converted into modern dosage forms (e.g. Triphala extract capsules or syrup instead of coarse Churna). Requirement: Published scientific literature on ingredients + Accelerated stability / shelf-life data + Acute oral toxicity testing.",
+      "Category_C_Proprietary_ASU": "Proprietary medicine containing ingredients mentioned in First Schedule texts but in novel proportions or combinations. Requirement: Safety study (Acute toxicity in rodents per OECD guidelines) + Evidence of effectiveness (Pilot clinical study or documented published human trials).",
+      "Category_D_Purified_Phytochemical": "Single isolated phytoconstituents (e.g. 95% Curcumin or Pure Withaferin A). Deemed modern new drugs regulated under New Drugs and Clinical Trials Rules (NDCT) 2019 by CDSCO, not simple ASU licensing."
+    },
+    "keywords": ["Rule 158-B", "Drugs and Cosmetics Act", "Chapter IV-A", "State Licensing Authority", "ASU drugs", "Shastriya", "Proprietary medicine", "First Schedule"]
+  },
+  {
+    "id": "REG-TKDL-003",
+    "title": "Traditional Knowledge Digital Library (TKDL) - Architecture, IPC Codes & Defensive Protection",
+    "agency": "Joint initiative of CSIR (Council of Scientific & Industrial Research) and Ministry of Ayush",
+    "corpus_details": "TKDL contains over 4.3 lakh (430,000) formulations from classical texts of Ayurveda, Unani, Siddha, and Sowa-Rigpa translated into 5 international languages (English, German, French, Japanese, Spanish) using Traditional Knowledge Resource Classification (TKRC) mapped to International Patent Classification (IPC - A61K 36/00).",
+    "access_agreements": "Access agreements signed with major International Patent Offices (USPTO, EPO, JPO, UKIPO, CIPO, Rospatent, IP Australia).",
+    "defensive_mechanism": "TKDL examiners monitor published patent applications worldwide. When an application claims known traditional formulations, TKDL files Third Party Pre-Grant Observations / Prior Art Submissions citing classical texts with exact shloka translations and TKRC codes, leading to immediate rejection or voluntary claim cancellation by foreign applicants.",
+    "statistics": "Over 270 foreign patent applications have been cancelled, withdrawn, or amended globally based on TKDL evidence without expensive international litigation.",
+    "keywords": ["TKDL", "CSIR", "Ministry of Ayush", "TKRC", "IPC A61K 36", "prior art submission", "defensive protection", "pre-grant observation"]
+  },
+  {
+    "id": "REG-WTO-004",
+    "title": "WTO TRIPS Agreement - Article 27.3(b) & Protection of Traditional Knowledge",
+    "treaty": "Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS), 1994",
+    "article": "Article 27(3)(b)",
+    "statutory_text": "Members may exclude from patentability: (b) plants and animals other than micro-organisms, and essentially biological processes for the production of plants or animals other than non-biological and microbiological processes.",
+    "analysis": "India's position at the WTO TRIPS Council advocates for a mandatory amendment to TRIPS to include 'Article 29bis' requiring: (1) Mandatory disclosure of origin of biological resources and associated traditional knowledge, (2) Evidence of Prior Informed Consent (PIC) from local/indigenous communities, and (3) Evidence of Fair and Equitable Benefit Sharing (ABS) in accordance with the Convention on Biological Diversity (CBD) and Nagoya Protocol.",
+    "keywords": ["WTO TRIPS", "Article 27.3(b)", "Article 29bis", "Nagoya Protocol", "CBD", "Prior Informed Consent", "PIC", "ABS"]
+  }
+]

@@ -1,0 +1,188 @@
+{
+  "botanical_terms": [
+    {
+      "sanskrit": ["हरिद्रा", "Haridra", "Kanchani", "Gauri", "Nisha", "Yoshitpriya"],
+      "hindi": ["हल्दी", "Haldi"],
+      "english": ["Turmeric", "Curcuma longa", "Indian Saffron"],
+      "botanical": "Curcuma longa L.",
+      "family": "Zingiberaceae",
+      "primary_indication": "Vranaropana (Wound healing), Kusthaghna (Skin diseases)"
+    },
+    {
+      "sanskrit": ["निम्ब", "Nimba", "Arishta", "Pichumarda", "Sarvatobhadra"],
+      "hindi": ["नीम", "Neem"],
+      "english": ["Neem", "Margosa", "Indian Lilac", "Azadirachta indica"],
+      "botanical": "Azadirachta indica A. Juss.",
+      "family": "Meliaceae",
+      "primary_indication": "Krimighna (Antimicrobial/Insecticidal), Kusthaghna (Dermatosis)"
+    },
+    {
+      "sanskrit": ["अश्वगन्धा", "Ashwagandha", "Balada", "Gandharva", "Varahakarni"],
+      "hindi": ["अश्वगंधा", "Asgandh", "Ashwagandha"],
+      "english": ["Indian Ginseng", "Winter Cherry", "Withania somnifera"],
+      "botanical": "Withania somnifera (L.) Dunal",
+      "family": "Solanaceae",
+      "primary_indication": "Rasayana (Adaptogen/Rejuvenator), Balya (Strength promoter)"
+    },
+    {
+      "sanskrit": ["तुलसी", "Tulasi", "Surasa", "Vishnupriya", "Bahumanjari"],
+      "hindi": ["तुलसी", "Tulsi"],
+      "english": ["Holy Basil", "Sacred Basil", "Ocimum sanctum", "Ocimum tenuiflorum"],
+      "botanical": "Ocimum sanctum L.",
+      "family": "Lamiaceae",
+      "primary_indication": "Kasahara (Cough), Shvasahara (Bronchitis/Asthma), Jvaraghna (Antipyretic)"
+    },
+    {
+      "sanskrit": ["गुडूची", "Guduchi", "Amrita", "Chinnaruha", "Kundali", "Vayastha"],
+      "hindi": ["गिलोय", "Giloy", "Gurach"],
+      "english": ["Heart-leaved Moonseed", "Indian Tinospora", "Tinospora cordifolia"],
+      "botanical": "Tinospora cordifolia (Willd.) Miers",
+      "family": "Menispermaceae",
+      "primary_indication": "Jvaraghna (Chronic fevers), Rasayana (Immunomodulator)"
+    },
+    {
+      "sanskrit": ["शुण्ठी", "Shunthi", "Ardraka", "Mahaushadha", "Vishwabhesheja"],
+      "hindi": ["सोंठ", "अदरक", "Sonth", "Adrak"],
+      "english": ["Ginger", "Dry Ginger", "Zingiber officinale"],
+      "botanical": "Zingiber officinale Roscoe",
+      "family": "Zingiberaceae",
+      "primary_indication": "Deepana-Pachana (Digestive), Shothahara (Anti-inflammatory)"
+    },
+    {
+      "sanskrit": ["आमलकी", "Amalaki", "Dhatri", "Vayastha", "Shiva"],
+      "hindi": ["आंवला", "Amla", "Anwla"],
+      "english": ["Indian Gooseberry", "Emblica officinalis", "Phyllanthus emblica"],
+      "botanical": "Phyllanthus emblica L.",
+      "family": "Phyllanthaceae",
+      "primary_indication": "Rasayana (Antioxidant), Chakshushya (Eye health), Kasa-Shvasa"
+    },
+    {
+      "sanskrit": ["हरीतकी", "Haritaki", "Abhaya", "Pathya", "Jivanti", "Chetaki"],
+      "hindi": ["हरड़", "हर्ड़े", "Harad", "Harre"],
+      "english": ["Chebulic Myrobalan", "Terminalia chebula"],
+      "botanical": "Terminalia chebula Retz.",
+      "family": "Combretaceae",
+      "primary_indication": "Anulomana (Laxative), Rasayana (Rejuvenator), Deepana"
+    },
+    {
+      "sanskrit": ["बिभीतकी", "Bibhitaki", "Aksha", "Vibhidaka", "Kalidruma"],
+      "hindi": ["बहेड़ा", "Baheda", "Bahera"],
+      "english": ["Belleric Myrobalan", "Terminalia bellirica"],
+      "botanical": "Terminalia bellirica (Gaertn.) Roxb.",
+      "family": "Combretaceae",
+      "primary_indication": "Kāsahara (Antitussive), Netrahita (Ophthalmic toner)"
+    },
+    {
+      "sanskrit": ["पिप्पली", "Pippali", "Magadhi", "Krishna", "Kana", "Chanchala"],
+      "hindi": ["पीपल", "पिप्पली", "Peepli", "Pippali"],
+      "english": ["Long Pepper", "Indian Long Pepper", "Piper longum"],
+      "botanical": "Piper longum L.",
+      "family": "Piperaceae",
+      "primary_indication": "Kāsahara, Shvāsahara, Rasayana, Bio-enhancer"
+    },
+    {
+      "sanskrit": ["मरिच", "Maricha", "Katu", "Krishna", "Ushna"],
+      "hindi": ["काली मिर्च", "Kali Mirch"],
+      "english": ["Black Pepper", "Piper nigrum"],
+      "botanical": "Piper nigrum L.",
+      "family": "Piperaceae",
+      "primary_indication": "Deepana, Pachana, Bio-availability enhancer"
+    },
+    {
+      "sanskrit": ["ब्राह्मी", "Brahmi", "Sarasvati", "Kapotavanka"],
+      "hindi": ["ब्राह्मी", "Brahmi"],
+      "english": ["Water Hyssop", "Bacopa monnieri"],
+      "botanical": "Bacopa monnieri (L.) Wettst.",
+      "family": "Plantaginaceae",
+      "primary_indication": "Medhya (Nootropic/Cognitive enhancer), Smritiprada (Memory)"
+    }
+  ],
+  "therapeutic_actions": [
+    {
+      "sanskrit": "Vranaropana (व्रणरोपण)",
+      "english": "Wound healing, tissue regeneration, ulcer repair",
+      "hindi": "घाव भरने वाला, ज़ख्म ठीक करने वाला",
+      "associated_herbs": ["Haridra", "Nimba", "Ghritakumari", "Yashtimadhu"]
+    },
+    {
+      "sanskrit": "Rasayana (रसायन)",
+      "english": "Immunomodulation, adaptogenic, anti-aging, longevity promoter",
+      "hindi": "रोग प्रतिरोधक क्षमता बढ़ाने वाला, बुढ़ापा रोधी",
+      "associated_herbs": ["Amalaki", "Guduchi", "Ashwagandha", "Haritaki", "Chyawanprash"]
+    },
+    {
+      "sanskrit": "Krimighna / Krumighna (कृमिघ्न)",
+      "english": "Antimicrobial, antibacterial, antifungal, anthelmintic, insecticidal",
+      "hindi": "कीटाणुनाशक, कृमिनाशक, एंटी-माइक्रोबियल",
+      "associated_herbs": ["Nimba", "Vidanga", "Haridra", "Tulasi"]
+    },
+    {
+      "sanskrit": "Kusthaghna (कुष्ठघ्न)",
+      "english": "Dermatological cure, treatment of eczema, psoriasis, skin lesions",
+      "hindi": "चर्म रोग नाशक",
+      "associated_herbs": ["Khadira", "Nimba", "Haridra", "Bakuchi"]
+    },
+    {
+      "sanskrit": "Deepana-Pachana (दीपन-पाचन)",
+      "english": "Digestive fire stimulant and metabolic toxin (Ama) metabolizer",
+      "hindi": "पाचन शक्ति बढ़ाने वाला, भूख बढ़ाने वाला",
+      "associated_herbs": ["Shunthi", "Pippali", "Maricha", "Chitrak", "Hingu"]
+    },
+    {
+      "sanskrit": "Medhya (मेध्य)",
+      "english": "Nootropic, cognitive enhancer, memory and intellect booster",
+      "hindi": "याद्दाश्त और बुद्धि बढ़ाने वाला, मानसिक तनाव दूर करने वाला",
+      "associated_herbs": ["Brahmi", "Mandukaparni", "Shankhapushpi", "Jyotishmati"]
+    },
+    {
+      "sanskrit": "Jvaraghna (ज्वरघ्न)",
+      "english": "Antipyretic, fever reducer, pyrexia alleviation",
+      "hindi": "बुखार नाशक, ज्वर कम करने वाला",
+      "associated_herbs": ["Guduchi", "Tulasi", "Kiratatikta", "Nimba", "Musta"]
+    },
+    {
+      "sanskrit": "Pramehaghna (प्रमेहघ्न)",
+      "english": "Anti-diabetic, glycemic control, metabolic syndrome therapy",
+      "hindi": "मधुमेह नियंत्रण, शुगर ठीक करने वाला",
+      "associated_herbs": ["Haridra", "Amalaki", "Meshashringi", "Jambu", "Vijaysar"]
+    },
+    {
+      "sanskrit": "Shothahara / Vedanasthapana (शोथहर / वेदनास्थापन)",
+      "english": "Anti-inflammatory and analgesic, pain reliever in arthritis",
+      "hindi": "सूजन व दर्द नाशक, दर्दनिवारक",
+      "associated_herbs": ["Shallaki (Boswellia)", "Guggulu", "Nirgundi", "Rasna", "Shunthi"]
+    }
+  ],
+  "legal_glossary": [
+    {
+      "term": "Section 3(p)",
+      "meaning": "Provision in Indian Patents Act 1970 excluding Traditional Knowledge from patentability.",
+      "hindi": "भारतीय पेटेंट कानून की धारा 3(p) - पारंपरिक ज्ञान पर पेटेंट निषेध"
+    },
+    {
+      "term": "Section 3(d)",
+      "meaning": "Prevents evergreening of known substances unless significant therapeutic efficacy enhancement is proved.",
+      "hindi": "धारा 3(d) - ज्ञात दवाओं के साधारण नए रूपों पर पेटेंट रोक (चिकित्सीय प्रभावशीलता का प्रमाण अनिवार्य)"
+    },
+    {
+      "term": "Section 3(e)",
+      "meaning": "Excludes mere admixtures aggregating known properties without synergistic evidence.",
+      "hindi": "धारा 3(e) - जड़ी-बूटियों के साधारण मिश्रण पर पेटेंट निषेध (जब तक गैर-स्पष्ट तालमेल/सिनर्जी न हो)"
+    },
+    {
+      "term": "NBA Form III",
+      "meaning": "Mandatory prior approval from National Biodiversity Authority before patent grant for Indian biological resources.",
+      "hindi": "राष्ट्रीय जैव विविधता प्राधिकरण (NBA) फॉर्म III - पेटेंट हेतु अनिवार्य पूर्व अनुमति"
+    },
+    {
+      "term": "Rule 158-B",
+      "meaning": "Regulatory guidelines under Drugs & Cosmetics Rules 1945 for licensing classical vs proprietary Ayurvedic medicines.",
+      "hindi": "नियम 158-B - आयुष औषधियों (शास्त्रीय व पेटेंट) के निर्माण लाइसेंस हेतु दिशा-निर्देश"
+    },
+    {
+      "term": "TKDL",
+      "meaning": "Traditional Knowledge Digital Library - CSIR & Ayush digital repository of 4.3L formulations used globally to block biopiracy.",
+      "hindi": "पारंपरिक ज्ञान डिजिटल पुस्तकालय (TKDL) - जैविक चोरी रोकने हेतु भारतीय डेटाबेस"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+[
+  {
+    "id": "AYUSH-API-001",
+    "title": "Curcuma longa (Haridra / Turmeric) Monograph",
+    "category": "Ayurvedic Pharmacopoeia of India",
+    "source": "Ayurvedic Pharmacopoeia of India, Part-I, Vol I, Monograph 23; Charaka Samhita Sutrasthana 4:11",
+    "sanskrit_name": "Haridra (हरिद्रा), Kanchani, Gauri, Nisha",
+    "hindi_name": "Haldi (हल्दी)",
+    "botanical_name": "Curcuma longa L. (Zingiberaceae)",
+    "classical_references": [
+      "Charaka Samhita, Sutrasthana Ch. 4 (Kusthaghna, Lekhaniya Mahakashaya)",
+      "Sushruta Samhita, Sutrasthana Ch. 38 (Haridradi Gana)",
+      "Astanga Hridaya, Sutrasthana Ch. 15",
+      "Bhavaprakasha Nighantu, Haritakyadi Varga"
+    ],
+    "traditional_uses": [
+      "Vranaropana (Wound healing and ulcer management)",
+      "Kusthaghna (Alleviation of skin disorders and dermatoses)",
+      "Kandughna (Relief from pruritus/itching)",
+      "Pramehaghna (Management of metabolic syndromes and diabetes)",
+      "Vishaghna (Antitoxic and antimicrobial activity)"
+    ],
+    "chemical_constituents": "Curcuminoids (Curcumin, Demethoxycurcumin, Bisdemethoxycurcumin), Essential oils (Turmerone, Atlantone, Zingiberene)",
+    "patentability_notes": "Use of raw turmeric powder or conventional pastes for wound healing, anti-inflammatory, or topical skin application is strictly NON-PATENTABLE under Section 3(p) of the Indian Patents Act 1970 as it is traditional knowledge documented in API and Charaka Samhita. Novel synthesized synthetic derivatives, specific non-obvious liposomal delivery systems demonstrating enhanced bioavailability under Section 3(d) with synergistic adjuvants under Section 3(e) may be patentable subject to NBA approval.",
+    "section_3p_risk": "HIGH for natural extract/wound healing/topical formulation; MODERATE-LOW for novel bio-enhanced targeted nanoparticle conjugates.",
+    "text": "Haridra consists of dried, cured rhizome of Curcuma longa Linn. (Fam. Zingiberaceae). In classical Ayurveda, Haridra possesses Tikta (bitter) and Katu (pungent) Rasa, Ruksha (dry) and Laghu (light) Guna, Ushna (hot) Virya, and Katu Vipaka. It pacifies Kapha and Pitta doshas. Indicated in Vrana (wounds), Kustha (skin diseases), Prameha (urinary/metabolic disorders), Pandu (anemia), and Krimi (parasitic infections). Topical application on wounds (Vrana-ropana) is well-documented in Sushruta Samhita Chikitsasthana. Under Indian Patent Law Section 3(p), any claim reciting Curcuma longa topical application for wound healing is anticipated prior art. Landmark biopiracy case: US Patent No. 5,401,504 granted to University of Mississippi was successfully revoked in 1997 by CSIR using ancient Ayurvedic texts as prior art."
+  },
+  {
+    "id": "AYUSH-API-002",
+    "title": "Azadirachta indica (Nimba / Neem) Monograph",
+    "category": "Ayurvedic Pharmacopoeia of India",
+    "source": "Ayurvedic Pharmacopoeia of India, Part-I, Vol II, Monograph 48; Sushruta Samhita Sutrasthana 38:5",
+    "sanskrit_name": "Nimba (निम्ब), Arishta, Pichumarda",
+    "hindi_name": "Neem (नीम)",
+    "botanical_name": "Azadirachta indica A. Juss. (Meliaceae)",
+    "classical_references": [
+      "Charaka Samhita, Sutrasthana Ch. 27",
+      "Sushruta Samhita, Sutrasthana Ch. 38 (Aragvadhadi Gana)",
+      "Bhavaprakasha Nighantu, Guduchyadi Varga, Shloka 10-14",
+      "Ayurvedic Formulary of India (AFI), Part-I"
+    ],
+    "traditional_uses": [
+      "Krimighna (Antimicrobial, insecticidal, anthelmintic)",
+      "Kusthaghna (Treatment of chronic skin diseases, eczema, psoriasis)",
+      "Vranashodhana & Vranaropana (Wound cleansing and healing)",
+      "Jvaraghna (Antipyretic)",
+      "Krumi/Keeta Nashaka (Agricultural pest and fungal management)"
+    ],
+    "chemical_constituents": "Azadirachtin, Nimbin, Nimbidin, Salannin, Gedunin, Quercetin",
+    "patentability_notes": "Antifungal, antimicrobial, and insecticidal properties of Neem seed extract, oil, or bark are documented classical traditional knowledge. Direct extraction or shelf-stable emulsion claims lacking synergistic non-obvious efficacy are rejected under Section 3(p) and 3(e). Landmark precedent: European Patent Office (EPO) Patent No. EP 0436257 (W.R. Grace & USDA) was revoked in 2000 after 10-year legal challenge by India (Dr. Vandana Shiva, CSIR) proving ancient Indian use of neem for crop protection.",
+    "section_3p_risk": "HIGH for insecticidal, antifungal, dermatological herbal extracts; MODERATE for isolated synthetic structural analogues.",
+    "text": "Nimba comprises the dried stem bark, root bark, leaves, and seeds of Azadirachta indica A. Juss. In Ayurveda, Nimba has Tikta (bitter) and Kashaya (astringent) Rasa, Laghu (light) Guna, Sheeta (cold) Virya, and Katu Vipaka. It is celebrated as 'Sarva Roga Nivarini'. Documented in Bhavaprakasha Nighantu for destroying microorganisms (Krimi) and curing skin pathologies. Section 3(p) of the Patents Act prohibits claiming Neem extracts for insecticidal, pesticidal, or antifungal use. Commercial extraction of Neem from Indian territory requires prior approval (Form I / Form III) from the National Biodiversity Authority (NBA) under Section 19 of the Biological Diversity Act 2002."
+  },
+  {
+    "id": "AYUSH-API-003",
+    "title": "Withania somnifera (Ashwagandha) Monograph",
+    "category": "Ayurvedic Pharmacopoeia of India",
+    "source": "Ayurvedic Pharmacopoeia of India, Part-I, Vol I, Monograph 12; Charaka Samhita Chikitsasthana 1:2",
+    "sanskrit_name": "Ashwagandha (अश्वगन्धा), Balada, Gandharva, Turagagandha",
+    "hindi_name": "Asgandh, Ashwagandha (अश्वगंधा)",
+    "botanical_name": "Withania somnifera (L.) Dunal (Solanaceae)",
+    "classical_references": [
+      "Charaka Samhita, Chikitsasthana Ch. 1 (Rasayana Adhyaya)",
+      "Sushruta Samhita, Sutrasthana Ch. 39",
+      "Astanga Hridaya, Uttarasthana Ch. 39",
+      "Sharangdhara Samhita, Madhyama Khanda Ch. 6"
+    ],
+    "traditional_uses": [
+      "Rasayana (Adaptogen, rejuvenating tonic, longevity promoter)",
+      "Balya (Strength and vitality promoter)",
+      "Shukrala (Enhancer of reproductive health and spermatogenesis)",
+      "Nidrajanana (Sedative, sleep promoter, anti-stress)",
+      "Shothahara (Anti-inflammatory in joint disorders/Amavata)"
+    ],
+    "chemical_constituents": "Withanolides (Withaferin A, Withanolide D, Withanolide A), Withanosides (I to VII), Alkaloids (Withanine, Somniferine)",
+    "patentability_notes": "Use of Withania somnifera root powder or standard aqueous/alcoholic extracts for stress reduction, cognitive enhancement, endurance, or immunity is traditional knowledge under Section 3(p). Inventions claiming synergistic combinations (e.g., Withania + Piperine for bioavailability) must demonstrate experimental data proving non-obvious synergistic enhancement under Section 3(e) to overcome objection.",
+    "section_3p_risk": "HIGH for single-herb extracts or adaptogenic/vitality claims; LOW-MODERATE for proprietary fractionated chemically defined withanolide ratios with documented synergy.",
+    "text": "Ashwagandha consists of dried mature roots of Withania somnifera. Rasa: Tikta, Kashaya, Madhura; Guna: Laghu, Snigdha; Virya: Ushna; Vipaka: Madhura. It pacifies Vata and Kapha. Widely prescribed in classical treatises as supreme Rasayana. Under Rule 158-B of Drugs and Cosmetics Rules, classical Ashwagandha Churna or Ashwagandharishta requires citation of authoritative books mentioned in the First Schedule, whereas proprietary extract-based dosage forms require safety and clinical trial data. NBA Form III approval is mandatory before applying for any patent based on Indian Ashwagandha biological material."
+  },
+  {
+    "id": "AYUSH-API-004",
+    "title": "Ocimum sanctum (Tulsi / Holy Basil) Monograph",
+    "category": "Ayurvedic Pharmacopoeia of India",
+    "source": "Ayurvedic Pharmacopoeia of India, Part-I, Vol II, Monograph 65; Charaka Samhita Sutrasthana 27",
+    "sanskrit_name": "Tulasi (तुलसी), Surasa, Vishnupriya, Bahumanjari",
+    "hindi_name": "Tulsi (तुलसी)",
+    "botanical_name": "Ocimum tenuiflorum L. / Ocimum sanctum L. (Lamiaceae)",
+    "classical_references": [
+      "Charaka Samhita, Sutrasthana Ch. 27",
+      "Sushruta Samhita, Sutrasthana Ch. 46",
+      "Bhavaprakasha Nighantu, Pushpa Varga",
+      "Dhanvantari Nighantu, Karaviradi Varga"
+    ],
+    "traditional_uses": [
+      "Kāsahara and Shvāsahara (Alleviation of cough, bronchitis, asthma)",
+      "Jvaraghna (Antipyretic, reduction of recurrent fevers)",
+      "Hridya (Cardioprotective and adaptogenic)",
+      "Krimighna (Antimicrobial and insect repellent)",
+      "Deepana-Pachana (Digestive stimulant)"
+    ],
+    "chemical_constituents": "Eugenol, Methyl eugenol, Caryophyllene, Ursolic acid, Rosmarinic acid, Linalool",
+    "patentability_notes": "Use of Tulsi extracts for respiratory relief, immunity boosting, anti-stress, or antimicrobial protection is established classical prior art under Section 3(p). Patent examiners will cite TKDL references. Novel purified molecules or non-herbal structural hybrids alone can satisfy novelty under Section 2(1)(j).",
+    "section_3p_risk": "HIGH for standard respiratory or antimicrobial teas/extracts.",
+    "text": "Tulasi consists of dried leaves and whole plant of Ocimum sanctum Linn. It has Katu, Tikta Rasa, Laghu, Ruksha, Tikshna Guna, Ushna Virya, and Katu Vipaka. Pacifies Kapha and Vata. Classical texts describe its efficacy in Shvasa (dyspnoea), Kasa (cough), Parshvashula (pleuritic chest pain), and Pratishyaya (rhinitis). Any patent claim on Tulsi herbal concoction is barred by Section 3(p) of the Patents Act, 1970."
+  },
+  {
+    "id": "AYUSH-API-005",
+    "title": "Tinospora cordifolia (Guduchi / Giloy) Monograph",
+    "category": "Ayurvedic Pharmacopoeia of India",
+    "source": "Ayurvedic Pharmacopoeia of India, Part-I, Vol I, Monograph 17; Charaka Samhita Chikitsasthana 1:3",
+    "sanskrit_name": "Guduchi (गुडूची), Amrita, Chinnaruha, Vayastha, Kundali",
+    "hindi_name": "Giloy (गिलोय), Gurach",
+    "botanical_name": "Tinospora cordifolia (Willd.) Miers (Menispermaceae)",
+    "classical_references": [
+      "Charaka Samhita, Chikitsasthana Ch. 1:3 (Rasayana)",
+      "Sushruta Samhita, Sutrasthana Ch. 38 (Guduchyadi Gana)",
+      "Astanga Hridaya, Uttarasthana Ch. 39",
+      "Bhavaprakasha Nighantu, Guduchyadi Varga, Shloka 1-8"
+    ],
+    "traditional_uses": [
+      "Jvaraghna (Chronic and intermittent fevers, Pyrexia)",
+      "Rasayana (Immunomodulator and life prolonger)",
+      "Pramehaghna (Anti-diabetic, metabolic regulation)",
+      "Kamala & Yakrit Vikara (Hepatoprotection and jaundice management)",
+      "Vatarakta (Gout, hyperuricemia, rheumatoid conditions)"
+    ],
+    "chemical_constituents": "Tinocordiside, Cordifolioside A, Berberine, Giloin, Tinosporide, Columbin",
+    "patentability_notes": "Immunomodulatory, antipyretic, hepatoprotective, and anti-diabetic uses are widely recorded across all classical treatises. Section 3(p) directly rejects standard extracts for immune boosting or fever management. Synergy claims with other herbs (e.g. Giloy + Tulsi + Papaya leaf for platelet count) face Section 3(e) objection unless clear additive vs synergistic quantified animal/clinical data is furnished.",
+    "section_3p_risk": "HIGH for immune booster formulation / herbal teas; MODERATE for isolated modified glycoside scaffolds.",
+    "text": "Guduchi consists of dried mature stem of Tinospora cordifolia. Rasa: Tikta, Kashaya; Guna: Laghu; Virya: Ushna; Vipaka: Madhura. Balances Tridoshas. Mentioned as Medhya Rasayana in Charaka Samhita. Under Biological Diversity Act 2002, commercial research or IP filing on Tinospora cordifolia sourced from Indian biogeographical zones requires mandatory NBA Form III approval before patent grant."
+  },
+  {
+    "id": "AYUSH-API-009",
+    "title": "Bacopa monnieri (Brahmi) Monograph",
+    "category": "Ayurvedic Pharmacopoeia of India",
+    "source": "Ayurvedic Pharmacopoeia of India, Part-I, Vol II, Monograph 11; Charaka Samhita Chikitsasthana 1:3",
+    "sanskrit_name": "Brahmi (ब्राह्मी), Sarasvati, Kapotavanka, Soumyalata",
+    "hindi_name": "Brahmi, Jalanimba (ब्राह्मी)",
+    "botanical_name": "Bacopa monnieri (L.) Wettst. (Plantaginaceae)",
+    "classical_references": [
+      "Charaka Samhita, Chikitsasthana Ch. 1:3 (Medhya Rasayana)",
+      "Sushruta Samhita, Chikitsasthana Ch. 28",
+      "Astanga Hridaya, Uttarasthana Ch. 39",
+      "Bhavaprakasha Nighantu, Guduchyadi Varga"
+    ],
+    "traditional_uses": [
+      "Medhya (Cognitive enhancement, synaptic plasticity, memory retention)",
+      "Unmadahara (Management of psychosis, neurosis, anxiety)",
+      "Apasmara (Epilepsy, convulsive disorders)",
+      "Ayushya (Longevity promotion and neuroprotection)",
+      "Hridya (Cardioprotective and nervous system tonic)"
+    ],
+    "chemical_constituents": "Bacosides (Bacoside A3, Bacopaside II, Bacosaponin C), Bacopasides (I-XII), Betulinic acid, Nicotianine",
+    "patentability_notes": "Use of Bacopa extracts for memory enhancement, focus, nootropic supplements, or Alzheimer's/ADHD management is heavily anticipated prior art under Section 3(p). Over 600 classical Ayurvedic formulations recite Brahmi. Novel fractionated bacoside combinations with specific synthetic carriers may overcome Section 3(d) only if superior human cognitive clinical endpoints are established.",
+    "section_3p_risk": "HIGH for nootropic memory supplements and cognitive herbal extracts.",
+    "text": "Brahmi comprises the whole plant of Bacopa monnieri. Rasa: Tikta, Kashaya, Madhura; Guna: Laghu, Sara; Virya: Sheeta; Vipaka: Madhura. It specifically balances Vata and Pitta doshas. Known as one of the four cardinal Medhya Rasayanas in Charaka Samhita. Under NBA rules, any international patent claiming memory-boosting formulations using Indian Bacopa monnieri requires prior approval under Section 6 of Biological Diversity Act 2002."
+  },
+  {
+    "id": "AYUSH-API-010",
+    "title": "Boswellia serrata (Shallaki / Indian Frankincense) Monograph",
+    "category": "Ayurvedic Pharmacopoeia of India",
+    "source": "Ayurvedic Pharmacopoeia of India, Part-I, Vol III, Monograph 83; Sushruta Samhita Chikitsasthana 23",
+    "sanskrit_name": "Shallaki (शल्लकी), Kunduru, Gajabhakshya, Suvaha",
+    "hindi_name": "Salai, Kundur (सालई, कुंदुर)",
+    "botanical_name": "Boswellia serrata Roxb. ex Colebr. (Burseraceae)",
+    "classical_references": [
+      "Charaka Samhita, Sutrasthana Ch. 4 (Purishasangrahaniya)",
+      "Sushruta Samhita, Sutrasthana Ch. 38 (Eladi Gana)",
+      "Bhavaprakasha Nighantu, Vatadi Varga",
+      "Dhanvantari Nighantu, Chandanadi Varga"
+    ],
+    "traditional_uses": [
+      "Sandhivata and Amavata (Osteoarthritis, rheumatoid arthritis, joint stiffness)",
+      "Shothahara (Systemic anti-inflammatory, 5-LOX inhibition)",
+      "Atisaraghna (Ulcerative colitis, inflammatory bowel disease, dysentery)",
+      "Vranaropana (Wound cleansing and healing gum)",
+      "Kāsahara (Chronic bronchial asthma and pulmonary congestion)"
+    ],
+    "chemical_constituents": "Boswellic acids (AKBA - 3-O-acetyl-11-keto-beta-boswellic acid, 11-keto-beta-boswellic acid, beta-boswellic acid), Serratol",
+    "patentability_notes": "Anti-inflammatory and anti-arthritic use of oleo-gum resin of Shallaki is classical traditional knowledge under Section 3(p). Patent claims on enriched AKBA extracts (e.g. 30% AKBA) must demonstrate novel extraction methods possessing non-obvious inventive steps under Section 2(1)(ja) to avoid rejection as obvious standard phytochemistry.",
+    "section_3p_risk": "HIGH for joint health supplements, arthritis creams, or colitis remedies.",
+    "text": "Shallaki consists of the exudate / oleo-gum resin obtained from the bark of Boswellia serrata Roxb. Rasa: Tikta, Kashaya, Madhura; Guna: Laghu, Ruksha; Virya: Sheeta; Vipaka: Katu. Documented in Sushruta Samhita for relieving pain (Vedanahara) and reducing inflammation (Shothahara) in joints. Commonly cited by Indian Patent Office to reject foreign joint-supplement patent applications."
+  },
+  {
+    "id": "AYUSH-API-011",
+    "title": "Gymnema sylvestre (Meshashringi / Gurmar) Monograph",
+    "category": "Ayurvedic Pharmacopoeia of India",
+    "source": "Ayurvedic Pharmacopoeia of India, Part-I, Vol II, Monograph 50; Sushruta Samhita Sutrasthana 38:8",
+    "sanskrit_name": "Meshashringi (मेषशृङ्गी), Madhunashini, Ajasringi, Vishani",
+    "hindi_name": "Gurmar (गुड़मार)",
+    "botanical_name": "Gymnema sylvestre (Retz.) R.Br. ex Schult. (Apocynaceae)",
+    "classical_references": [
+      "Sushruta Samhita, Sutrasthana Ch. 38 (Nyagrodhadi Gana)",
+      "Astanga Hridaya, Sutrasthana Ch. 15",
+      "Bhavaprakasha Nighantu, Guduchyadi Varga",
+      "Raja Nighantu, Prabhadradi Varga"
+    ],
+    "traditional_uses": [
+      "Pramehaghna / Madhumehanashini (Anti-diabetic, destruction of sweet taste perception)",
+      "Deepana-Pachana (Digestive stimulant)",
+      "Krimighna (Antiparasitic)",
+      "Shothahara (Anti-inflammatory, metabolic syndrome management)",
+      "Hridya and Raktashodhaka (Lipid lowering and blood purification)"
+    ],
+    "chemical_constituents": "Gymnemic acids (I-XVIII), Gymnemasaponins, Gurmarin (polypeptide blocking sweet receptor TAS1R2/TAS1R3), Lupeol",
+    "patentability_notes": "Use of Gymnema sylvestre for blood sugar control, insulin sensitivity, or sugar craving suppression is textbook classical Ayurvedic knowledge. In 2012, EPO revoked EP 1841440 citing Indian prior art on Meshashringi formulations. Section 3(p) bars any direct diabetic herbal claims.",
+    "section_3p_risk": "HIGH for anti-diabetic herbal capsules, glycemic index teas, or sweet suppression mints.",
+    "text": "Meshashringi consists of dried leaves and roots of Gymnema sylvestre. Known in Ayurveda as 'Madhunashini' (destroyer of sugar/sweetness). Rasa: Tikta, Kashaya; Guna: Laghu, Ruksha; Virya: Ushna; Vipaka: Katu. Balances Kapha and Vata. Documented extensively in Sushruta Samhita for managing urinary abnormalities and diabetes (Prameha). Mandatory NBA Form III filing required for any patent based on this species."
+  },
+  {
+    "id": "AYUSH-API-012",
+    "title": "Andrographis paniculata (Kalmegh / King of Bitters) Monograph",
+    "category": "Ayurvedic Pharmacopoeia of India",
+    "source": "Ayurvedic Pharmacopoeia of India, Part-I, Vol II, Monograph 33; Charaka Samhita Sutrasthana 4",
+    "sanskrit_name": "Kalamegha (कालमेघ), Bhunimba, Mahatikta, Yavatikta",
+    "hindi_name": "Kalmegh, Kiryat (कालमेघ)",
+    "botanical_name": "Andrographis paniculata (Burm. f.) Nees (Acanthaceae)",
+    "classical_references": [
+      "Charaka Samhita, Sutrasthana Ch. 4 (Tiktaskandha)",
+      "Bhavaprakasha Nighantu, Guduchyadi Varga",
+      "Dhanvantari Nighantu, Guduchyadi Varga",
+      "Ayurvedic Formulary of India, Part-I"
+    ],
+    "traditional_uses": [
+      "Yakridvikara and Kamala (Hepatoprotective, fatty liver, jaundice)",
+      "Jvaraghna (Acute fevers, viral infections, malaria)",
+      "Krimighna and Kusthaghna (Antimicrobial, eczema, skin inflammation)",
+      "Deepana and Pittasaraka (Choleretic, digestive tonic)"
+    ],
+    "chemical_constituents": "Andrographolide, Neoandrographolide, 14-deoxy-11,12-didehydroandrographolide, Andrographiside",
+    "patentability_notes": "Use of Kalmegh for viral infections, influenza, liver support, or fevers is established classical prior art. In 2011, EPO revoked patent EP 1912644 (claiming Andrographis for avian swine flu) based on TKDL third-party observations quoting Charaka Samhita and API.",
+    "section_3p_risk": "HIGH for viral immunity, hepatoprotection, and anti-pyretic formulations.",
+    "text": "Kalamegha comprises the dried whole plant of Andrographis paniculata. Possesses intense Tikta (bitter) Rasa, Laghu and Ruksha Guna, Ushna Virya, and Katu Vipaka. Highly potent in balancing Pitta and Kapha. Sourced across Central and Southern India. International patent filings claiming antiviral or hepatoprotective activity are actively monitored by CSIR-TKDL."
+  },
+  {
+    "id": "AYUSH-FORM-006",
+    "title": "Triphala Formulation (Haritaki + Bibhitaki + Amalaki)",
+    "category": "Classical Ayurvedic Formulation",
+    "source": "Ayurvedic Formulary of India (AFI), Part-I, 7:15; Charaka Samhita Chikitsasthana 1:2",
+    "sanskrit_name": "Triphala Churna (त्रिफला चूर्ण)",
+    "composition": "Equal parts of Terminalia chebula (Haritaki), Terminalia bellirica (Bibhitaki), and Phyllanthus emblica / Emblica officinalis (Amalaki)",
+    "classical_references": [
+      "Charaka Samhita, Sutrasthana Ch. 25 & Chikitsasthana 1:2",
+      "Sushruta Samhita, Sutrasthana Ch. 38 (Triphala Gana)",
+      "Sharangdhara Samhita, Madhyama Khanda Ch. 6:9-11",
+      "Chakradatta, Rasayana Adhikara"
+    ],
+    "traditional_uses": [
+      "Chakshushya (Ophthalmic toner, vision enhancer)",
+      "Anulomana (Gentle laxative, bowel regulator)",
+      "Deepana and Pachana (Digestive stimulant)",
+      "Rasayana (Antioxidant, anti-aging cellular rejuvenating compound)",
+      "Pramehaghna and Kusthaghna (Metabolic and skin therapy)"
+    ],
+    "patentability_notes": "Triphala in any standard proportion (1:1:1 or classical variants) is absolute Traditional Knowledge in the public domain. Any patent claim covering Triphala powder, simple tablets, aqueous decoction, or cosmetic scrub is directly barred under Section 3(p) and Section 3(e) (mere admixture). Even modified extraction processes require demonstrating inventive step under Section 2(1)(ja) that is not obvious to a person skilled in Ayurvedic manufacturing.",
+    "section_3p_risk": "EXTREME / CRITICAL (100% anticipation risk under Section 3(p)).",
+    "text": "Triphala is one of the most celebrated classical formulations in Ayurveda, combining three myrobalans: Haritaki, Bibhitaki, and Amalaki. It encompasses all Rasas except Lavana (salty), balances all three Doshas (Vata-Pitta-Kapha), and functions as a systemic detoxifier (Shodhana) and rejuvenator (Rasayana). Under Indian Patent Law, combinations of known classical herbs are deemed non-inventions under Section 3(e) unless profound non-obvious synergy with quantifiable experimental evidence is shown."
+  },
+  {
+    "id": "AYUSH-FORM-007",
+    "title": "Chyawanprash Formulation",
+    "category": "Classical Ayurvedic Avaleha Formulation",
+    "source": "Ayurvedic Formulary of India (AFI), Part-I; Charaka Samhita Chikitsasthana 1:1, Shlokas 62-74",
+    "sanskrit_name": "Chyavanaprasha Avaleha (च्यवनप्राश अवलेह)",
+    "composition": "Amalaki (Emblica officinalis) base processed with Dashamoola, Ashtavarga/representative herbs, Pippali, Ghee, Sesame oil, Honey, Sugar, and aromatic spices (Twak, Ela, Patra, Nagakeshara)",
+    "classical_references": [
+      "Charaka Samhita, Chikitsasthana Ch. 1:1 (Abhayamlakiya Rasayana Pada)",
+      "Astanga Hridaya, Uttarasthana Ch. 39",
+      "Sahasrayogam, Leha Prakarana",
+      "Bhavaprakasha, Chikitsa Prakarana"
+    ],
+    "traditional_uses": [
+      "Kasa-Shvasahara (Treatment of chronic cough, asthma, pulmonary disorders)",
+      "Rasayana (General immunity, youthfulness, physical endurance)",
+      "Kshayahara (Recovery from wasting, debility, tuberculosis)",
+      "Svarabheda (Hoarseness of voice, vocal cord strength)",
+      "Medhya (Cognitive acuity and memory enhancement)"
+    ],
+    "patentability_notes": "Chyawanprash is public traditional knowledge. A patent claim on the composition or standard preparation of Chyawanprash will be summarily refused under Section 3(p) and 3(e). Sugar-free or modified prebiotic vehicle versions face intense Section 3(d) scrutiny (requiring proof of significantly enhanced therapeutic efficacy over the baseline classical formulation).",
+    "section_3p_risk": "EXTREME / CRITICAL (100% anticipated under Section 3(p)).",
+    "text": "Chyawanprash is the premier Rasayana formulation recorded by Sage Charaka, attributed to Sage Chyavana who regained youthful vigor. Prepared with fresh Amla fruit pulp enriched with decoctions of over 40 medicinal botanicals. Under Chapter IV-A of the Drugs and Cosmetics Act, 1940, classical Chyawanprash must strictly adhere to the classical composition and manufacturing methods prescribed in the First Schedule authoritative texts to be sold under the name Chyawanprash."
+  },
+  {
+    "id": "AYUSH-FORM-013",
+    "title": "Trikatu Churna (Classical Bio-Enhancer Formulation)",
+    "category": "Classical Ayurvedic Bio-Enhancer",
+    "source": "Ayurvedic Formulary of India (AFI), Part-I, 7:12; Charaka Samhita Sutrasthana 27",
+    "sanskrit_name": "Trikatu Churna (त्रिकटु चूर्ण), Vyosha, Tryushana",
+    "composition": "Equal parts of Zingiber officinale (Shunthi), Piper nigrum (Maricha), and Piper longum (Pippali)",
+    "classical_references": [
+      "Charaka Samhita, Sutrasthana Ch. 27",
+      "Sushruta Samhita, Sutrasthana Ch. 38 (Pippalyadi Gana)",
+      "Astanga Hridaya, Sutrasthana Ch. 6",
+      "Sharangdhara Samhita, Madhyama Khanda Ch. 6"
+    ],
+    "traditional_uses": [
+      "Deepana and Pachana (Metabolic stimulant, Agni enhancer)",
+      "Yogavahi / Bio-enhancer (Enhancing gastrointestinal permeability and absorption of other drugs)",
+      "Srotoshodhaka (Clearing micro-circulatory body channels)",
+      "Kāsahara and Shvāsahara (Respiratory mucus liquefaction)",
+      "Medoroga (Metabolism booster, obesity management)"
+    ],
+    "patentability_notes": "The concept of using Trikatu (or its individual constituents Shunthi, Maricha, Pippali) to enhance bioavailability (Yogavahitwa) is ancient Ayurvedic knowledge. In 1999, Indian scientists (Bose & Atal) patented piperine bio-enhancement; however, modern patent claims combining Trikatu with other herbs face Section 3(p) and 3(e) objections unless extreme non-obvious synergy with modern therapeutic agents (e.g. anti-cancer or anti-TB drugs) is established.",
+    "section_3p_risk": "HIGH for polyherbal combinations; MODERATE for synthetic alkaloid nano-complexes.",
+    "text": "Trikatu signifies 'the three pungents' (Sunthi, Maricha, Pippali). Possesses intense Katu Rasa, Ushna Virya, and Katu Vipaka. Highly celebrated in Rasashastra as the premier bio-enhancer (Yogavahi) that enhances bioavailability of co-administered formulations. Documented in AFI Part-I."
+  },
+  {
+    "id": "AYUSH-FORM-014",
+    "title": "Sitopaladi Churna Formulation",
+    "category": "Classical Ayurvedic Respiratory Formulation",
+    "source": "Ayurvedic Formulary of India (AFI), Part-I, 7:36; Sharangdhara Samhita Madhyama Khanda 6:134-137",
+    "sanskrit_name": "Sitopaladi Churna (सितोपलादि चूर्ण)",
+    "composition": "Sitopala (Sugar candy - 16 parts), Vamshalochana (Bambusa arundinacea - 8 parts), Pippali (Piper longum - 4 parts), Ela (Elettaria cardamomum - 2 parts), Twak (Cinnamomum verum - 1 part)",
+    "classical_references": [
+      "Sharangdhara Samhita, Madhyama Khanda Ch. 6",
+      "Bhaishajya Ratnavali, Rajayakshma Adhikara",
+      "Sahasrayogam, Churna Prakarana"
+    ],
+    "traditional_uses": [
+      "Kasa and Shvasa (Chronic cough, bronchitis, pleurisy)",
+      "Kshaya (Debility, respiratory wasting, tuberculosis convalescence)",
+      "Jvara (Sub-acute fevers, burning sensation in palms and soles / Hastapada Daha)",
+      "Ruchya (Loss of taste, anorexia, digestive sluggishness)"
+    ],
+    "patentability_notes": "Absolute traditional knowledge codified in AFI. Any patent claim reciting Sitopaladi composition or standard lozenges is directly anticipated under Section 3(p) and Section 3(e).",
+    "section_3p_risk": "EXTREME (100% anticipated prior art).",
+    "text": "Sitopaladi Churna is the classical drug of choice for respiratory ailments. Formulated with ascending harmonic proportions from Twak (1 part) to Sitopala (16 parts). Balances Vata and Pitta. Governed under Chapter IV-A of Drugs and Cosmetics Act 1940."
+  }
+]

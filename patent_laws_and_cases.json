@@ -1,0 +1,93 @@
+[
+  {
+    "id": "LAW-PAT-001",
+    "title": "Indian Patents Act 1970 - Section 3(p): Traditional Knowledge Non-Patentability",
+    "act": "The Patents Act, 1970 (Act No. 39 of 1970 as amended by Patents (Amendment) Act, 2005)",
+    "section": "Section 3(p)",
+    "statutory_text": "The following are not inventions within the meaning of this Act: (p) an invention which in effect, is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components.",
+    "analysis": "Section 3(p) was introduced into the Indian Patents Act specifically to prevent biopiracy and the improper monopolization of India's indigenous medicinal heritage (Ayurveda, Yoga, Unani, Siddha, Sowa-Rigpa, and folk medicine). Under this section, an applicant cannot claim an herbal extract, plant part, or traditional formulation if its therapeutic utility or property is already disclosed in classical treatises (Charaka Samhita, Sushruta Samhita, Bhavaprakasha, etc.) or TKDL. To overcome Section 3(p), the applicant must prove an inventive step (Section 2(1)(ja)) that does not merely exploit known properties, involving human intervention, novel chemical modification, or unexpected technical effects.",
+    "guidelines_ref": "Guidelines for Processing of Patent Applications Relating to Traditional Knowledge and Biological Material (CGPDTM, 2012)",
+    "landmark_citations": [
+      "CSIR vs. University of Mississippi (Turmeric Patent US 5,401,504)",
+      "EPO Revocation of Neem Patent (EP 0436257 B1)",
+      "EPO Revocation of Withania somnifera patent (EP 2879685)"
+    ],
+    "keywords": ["Section 3(p)", "traditional knowledge", "aggregation", "known properties", "prior art", "ayurveda", "TKDL", "non-patentable"]
+  },
+  {
+    "id": "LAW-PAT-002",
+    "title": "Indian Patents Act 1970 - Section 3(d): Mere Discovery of Known Substance & Efficacy Standard",
+    "act": "The Patents Act, 1970",
+    "section": "Section 3(d)",
+    "statutory_text": "The following are not inventions within the meaning of this Act: (d) the mere discovery of a new form of a known substance which does not result in the enhancement of the known efficacy of that substance or the mere discovery of any new property or new use for a known substance or of the mere use of a known process, machine or apparatus unless such known process results in a new product or employs at least one new reactant.",
+    "analysis": "In the context of Ayurveda and herbal patents, Section 3(d) prevents evergreen patenting of known phytomolecules or extracts (e.g. creating an ester, salt, polymorph, or formulation of Curcumin or Withaferin A) without demonstrating statistically significant enhancement in therapeutic efficacy. In Novartis AG v. Union of India (2013), the Supreme Court ruled that 'efficacy' strictly means therapeutic efficacy, not merely physical or pharmacokinetic stability.",
+    "guidelines_ref": "CGPDTM Guidelines for Examination of Pharmaceutical & Herbal Patent Applications",
+    "landmark_citations": ["Novartis AG v. Union of India (2013) 6 SCC 1"],
+    "keywords": ["Section 3(d)", "therapeutic efficacy", "known substance", "evergreening", "phytochemicals", "bioavailability vs efficacy"]
+  },
+  {
+    "id": "LAW-PAT-003",
+    "title": "Indian Patents Act 1970 - Section 3(e): Mere Admixture Non-Patentability & Synergy Proof",
+    "act": "The Patents Act, 1970",
+    "section": "Section 3(e)",
+    "statutory_text": "The following are not inventions within the meaning of this Act: (e) a substance obtained by a mere admixture resulting only in the aggregation of the properties of the components thereof or a process for producing such substance.",
+    "analysis": "Section 3(e) is the primary objection raised against multi-herb Ayurvedic polyherbal formulations. If an applicant mixes Ashwagandha with Brahmi, or Turmeric with Ginger, the Patent Office assumes the resulting mixture produces only an additive effect of their known properties. To satisfy Section 3(e), the applicant must furnish comparative experimental data showing synergistic interaction (e.g., Combination Index < 1, quantified isobologram analysis, or significant non-additive pharmacological boost) compared to individual components alone.",
+    "guidelines_ref": "CGPDTM Manual of Patent Office Practice and Procedure (Clause 09.03.05.05)",
+    "landmark_citations": ["Ram Narain Kher v. Ambassador Industries (AIR 1976 Del 87)"],
+    "keywords": ["Section 3(e)", "mere admixture", "synergy", "aggregation of properties", "polyherbal", "combination index"]
+  },
+  {
+    "id": "LAW-PAT-004",
+    "title": "Indian Patents Act 1970 - Section 3(i): Method of Treatment & Ayush Therapies",
+    "act": "The Patents Act, 1970",
+    "section": "Section 3(i)",
+    "statutory_text": "The following are not inventions within the meaning of this Act: (i) any process for the medicinal, surgical, curative, prophylactic, diagnostic, therapeutic or other treatment of human beings or any process for a similar treatment of animals to render them free of disease or to increase their economic value or that of their products.",
+    "analysis": "Section 3(i) prohibits patenting of clinical treatment protocols, dosing regimens, or therapeutic methods. In Ayurveda, classical treatment modalities (e.g. Panchakarma regimens like Vamana, Virechana, Shirodhara, Nasya, or specific dietary timing/Ahara vidhi) are strictly unpatentable methods of treatment under Indian law.",
+    "guidelines_ref": "CGPDTM Guidelines on Examination of Medical Inventions",
+    "keywords": ["Section 3(i)", "method of treatment", "Panchakarma", "therapeutics", "non-patentable method"]
+  },
+  {
+    "id": "CASE-BIO-001",
+    "title": "Landmark Biopiracy Case: USPTO Turmeric Wound Healing Patent (US 5,401,504)",
+    "category": "Landmark Biopiracy Precedent",
+    "jurisdiction": "United States Patent and Trademark Office (USPTO)",
+    "patent_number": "US Patent No. 5,401,504",
+    "assignee": "University of Mississippi Medical Center (Inventors: Suman K. Das and Hari Har P. Cohly)",
+    "filing_date": "December 28, 1993; Granted: March 28, 1995",
+    "claims": "Use of turmeric (Curcuma longa) powder and its administration for promoting wound healing in a subject with topical cuts or surgical wounds.",
+    "challenge_by": "Council of Scientific & Industrial Research (CSIR), India (Led by Dr. R.A. Mashelkar)",
+    "outcome": "Complete Revocation of all claims on August 13, 1997",
+    "legal_evidence_presented": "CSIR produced 32 references, including ancient Sanskrit texts (Charaka Samhita, Sushruta Samhita), a 1953 article in the Journal of the Indian Medical Association, and multiple Hindi/Urdu treatises documenting topical turmeric paste for Vrana-ropana. USPTO conceded that the claim lacked novelty and was anticipated by prior art.",
+    "strategic_takeaway": "This case was the catalyst for the creation of India's Traditional Knowledge Digital Library (TKDL) and the introduction of Section 3(p) in the Indian Patents Act. Proves that documented classical traditional use destroys absolute novelty worldwide.",
+    "keywords": ["Turmeric biopiracy", "US 5401504", "CSIR", "Mashelkar", "wound healing", "revocation", "novelty lack"]
+  },
+  {
+    "id": "CASE-BIO-002",
+    "title": "Landmark Biopiracy Case: European Patent Office Neem Antifungal Patent (EP 0436257)",
+    "category": "Landmark Biopiracy Precedent",
+    "jurisdiction": "European Patent Office (EPO) Technical Board of Appeal",
+    "patent_number": "EP 0436257 B1",
+    "assignee": "W.R. Grace & Co. and United States Department of Agriculture (USDA)",
+    "granted_date": "September 14, 1994",
+    "claims": "A method for controlling fungi on plants comprising contacting the fungi with a novel hydrophobic extracted neem oil formulation.",
+    "challenge_by": "Dr. Vandana Shiva (Research Foundation for Science, Technology and Ecology - RFSTE), Magda Aelvoet (Green Group in European Parliament), and IFOAM",
+    "outcome": "Patent fully revoked by EPO Opposition Division in May 2000; Upheld by Technical Board of Appeal in March 2005",
+    "legal_evidence_presented": "Opponents proved that farmers in India have used neem seed extracts and oil suspensions for crop protection and fungal control for centuries without chemical alterations, invalidating the 'inventive step' (Article 56 EPC).",
+    "strategic_takeaway": "Direct extraction of natural plant active constituents without non-obvious inventive synthetic modification is legally unpatentable under EPO Article 56 and Indian Section 3(p).",
+    "keywords": ["Neem biopiracy", "EP 0436257", "Vandana Shiva", "W.R. Grace", "antifungal", "inventive step", "EPO revocation"]
+  },
+  {
+    "id": "CASE-BIO-004",
+    "title": "Landmark TKDL Revocation: EPO Ashwagandha Hyperpigmentation Patent (EP 2879685)",
+    "category": "Landmark Biopiracy Precedent",
+    "jurisdiction": "European Patent Office (EPO)",
+    "patent_number": "EP 2879685",
+    "assignee": "Amorepacific Corporation (South Korea)",
+    "claims": "Cosmetic composition containing Withania somnifera extract for skin whitening, depigmentation, and anti-aging.",
+    "challenge_by": "CSIR-TKDL (Ministry of Ayush / Government of India)",
+    "outcome": "Patent application was revoked / withdrawn in 2017 after TKDL submitted third-party observations citing Charaka Samhita and Bhavaprakasha Nighantu.",
+    "legal_evidence_presented": "TKDL provided 5 classical Sanskrit textual citations demonstrating that Ashwagandha has been prescribed for Kusthaghna, Varnya (complexion improvement), and anti-aging (Rasayana) for millennia.",
+    "strategic_takeaway": "Demonstrates the real-world operational power of TKDL in preventing international patent monopolies on Indian botanicals without costly overseas court trials.",
+    "keywords": ["Ashwagandha biopiracy", "EP 2879685", "Amorepacific", "skin whitening", "TKDL observation", "Bhavaprakasha"]
+  }
+]
