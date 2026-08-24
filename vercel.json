@@ -3,27 +3,14 @@
   "name": "ip-sakti-ayush",
   "builds": [
     {
-      "src": "frontend/**",
+      "src": "*",
       "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/frontend/$1"
-    }
-  ],
-  "cleanUrls": true,
-  "redirects": [
-    {
-      "source": "/top-topics",
-      "destination": "/frontend/top_topics.html",
-      "permanent": true
-    },
-    {
-      "source": "/top-legal",
-      "destination": "/frontend/top_legal.html",
-      "permanent": true
+      "dest": "/$1"
     }
   ]
 }

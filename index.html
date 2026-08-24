@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IP-SAKTI (आयुष-शक्ति) — Sovereign AI Engine for Indian Traditional Knowledge</title>
+  <meta name="description" content="Sovereign Multilingual RAG AI Assistant for Intellectual Property, Section 3(p) Patentability, and Ancestral Indian Medicine Provenance Defense.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Yatra+One&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-theme">
+  <!-- 3D INTERACTIVE PARTICLE & SACRED GEOMETRY CANVAS -->
+  <canvas id="canvas-3d-bg" class="canvas-3d-bg"></canvas>
+
+  <!-- SOVEREIGN AMBIENT GLOW ORBS (TRI-COLOR) -->
+  <div class="bg-glow bg-glow-saffron"></div>
+  <div class="bg-glow bg-glow-emerald"></div>
+  <div class="bg-glow bg-glow-navy"></div>
+
+  <!-- TOP SOVEREIGN HEADER WITH INDIAN MOTIFS -->
+  <header class="app-header">
+    <div class="sovereign-tricolor-bar"></div>
+    <div class="header-container">
+      <div class="brand-wrapper" data-tilt>
+        <div class="brand-emblem-3d">
+          <div class="chakra-ring"></div>
+          <i class="fa-solid fa-leaf emblem-icon"></i>
+          <span class="emblem-pulse"></span>
+        </div>
+        <div class="brand-text">
+          <div class="brand-title">
+            <span class="highlight-saffron">IP-SAKTI</span> 
+            <span class="hindi-brand-tag">आयुष-शक्ति</span>
+            <span class="sovereign-badge">🇮🇳 SIH26045</span>
+          </div>
+          <div class="brand-subtitle">
+            <span class="motto-sanskrit">"नास्ति मूलम् अनौषधम्"</span> • Ministry of Ayush Sovereign Legal-Scientific AI
+          </div>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <div class="status-indicator online" id="system-status">
+          <span class="status-dot"></span>
+          <span class="status-text">Defense Grid Online</span>
+        </div>
+
+        <div class="lang-selector-wrapper">
+          <i class="fa-solid fa-language text-saffron"></i>
+          <select id="lang-select" class="lang-select">
+            <option value="auto">🌐 Multilingual (Auto)</option>
+            <option value="en">English (English)</option>
+            <option value="hi">हिन्दी (Hindi)</option>
+            <option value="sa">संस्कृतम् (Sanskrit)</option>
+          </select>
+        </div>
+
+        <button class="btn btn-sovereign btn-sm" id="btn-open-deck">
+          <i class="fa-solid fa-scroll"></i> Pitch Deck
+        </button>
+      </div>
+    </div>
+
+    <!-- NAVIGATION TABS -->
+    <nav class="nav-tabs-wrapper">
+      <div class="nav-tabs-container">
+        <button class="nav-tab active" data-tab="tab-chat">
+          <i class="fa-solid fa-comments"></i> Multilingual AI Assistant
+        </button>
+        <button class="nav-tab" data-tab="tab-provenance">
+          <i class="fa-solid fa-landmark-dome text-saffron"></i> Ancestral Provenance E-Documents (21)
+        </button>
+        <button class="nav-tab" data-tab="tab-patent">
+          <i class="fa-solid fa-scale-balanced"></i> Section 3(p) Patent Analyzer
+        </button>
+        <button class="nav-tab" data-tab="tab-biopiracy">
+          <i class="fa-solid fa-shield-halved text-emerald"></i> Biopiracy & NBA Scanner
+        </button>
+        <button class="nav-tab" data-tab="tab-corpus">
+          <i class="fa-solid fa-book-medical"></i> Pharmacopoeia & Shlokas
+        </button>
+        <button class="nav-tab" data-tab="tab-telemetry">
+          <i class="fa-solid fa-chart-pie"></i> Sovereign Telemetry
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <!-- 3D HERO BANNER WITH PERSPECTIVE DEPTH -->
+  <section class="hero-3d-section">
+    <div class="hero-3d-container">
+      <div class="hero-content" data-tilt>
+        <div class="hero-badge">
+          <i class="fa-solid fa-certificate text-saffron"></i>
+          <span>PROTECTING 5,000 YEARS OF ANCESTRAL INDIAN MEDICAL HERITAGE</span>
+        </div>
+        <h1 class="hero-headline">
+          Defending India's <span class="highlight-saffron">Traditional Knowledge</span> Against Global Biopiracy
+        </h1>
+        <p class="hero-subtext">
+          Sovereign AI-First intelligence engine bridging ancient Sanskrit manuscripts (<em>Charaka, Sushruta, Vagbhata</em>) with modern patent law (<em>Section 3(p), 3(d), 3(e)</em>) and the Biological Diversity Act, 2002.
+        </p>
+
+        <!-- 3D FLOATING STATS STRIP -->
+        <div class="hero-stats-3d">
+          <div class="hero-stat-card">
+            <span class="stat-num counter" data-target="5000">5,000+</span>
+            <span class="stat-desc">Years of Codified Science</span>
+          </div>
+          <div class="hero-stat-card active-card">
+            <span class="stat-num counter" data-target="21">21+</span>
+            <span class="stat-desc">Ancestral Proof E-Documents</span>
+          </div>
+          <div class="hero-stat-card">
+            <span class="stat-num">4.3 Lakh</span>
+            <span class="stat-desc">TKDL Formulations Shielded</span>
+          </div>
+          <div class="hero-stat-card">
+            <span class="stat-num highlight-emerald">100%</span>
+            <span class="stat-desc">Sec 3(p) Defense Coverage</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- 3D ROTATING HOLOGRAPHIC SEAL -->
+      <div class="hero-hologram-wrapper">
+        <div class="hologram-cylinder">
+          <div class="holo-ring outer-ring"></div>
+          <div class="holo-ring middle-ring"></div>
+          <div class="holo-chakra"></div>
+          <div class="holo-core">
+            <i class="fa-solid fa-om holo-icon"></i>
+            <span>AYUSH AI</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MAIN APP CONTAINER -->
+  <main class="app-main">
+    
+    <!-- ================= TAB 1: MULTILINGUAL AI CHAT & CITATIONS ================= -->
+    <section class="tab-content active" id="tab-chat">
+      <div class="chat-layout">
+        <!-- CHAT CONVERSATION PANE -->
+        <div class="chat-pane glass-panel 3d-tilt-panel" data-tilt>
+          <div class="chat-pane-header">
+            <div class="header-left">
+              <div class="agent-avatar">
+                <i class="fa-solid fa-brain"></i>
+              </div>
+              <div>
+                <h3 class="agent-name">Ayush Regulatory & Patent Intelligence RAG</h3>
+                <p class="agent-status">Grounded in 21 Ancestral Samhita Treatises, API Monographs & Indian Patents Act</p>
+              </div>
+            </div>
+            <button class="btn-icon" id="btn-clear-chat" title="Clear Conversation">
+              <i class="fa-solid fa-rotate-left"></i>
+            </button>
+          </div>
+
+          <div class="chat-messages" id="chat-messages">
+            <div class="message assistant-message">
+              <div class="msg-avatar"><i class="fa-solid fa-leaf"></i></div>
+              <div class="msg-content">
+                <p><strong>Namaste! I am IP-SAKTI</strong>, your sovereign AI guide for Ayurvedic Intellectual Property, Ancestral Provenance, and Section 3(p) compliance.</p>
+                <p>Ask in <strong>English, हिन्दी, or Sanskrit botanical terms</strong>:</p>
+                <ul>
+                  <li><strong>Section 3(p) & 3(e)</strong>: Can a formulation with Haridra and Neem be patented in India or worldwide?</li>
+                  <li><strong>Ancestral Indian Provenance</strong>: Show ancient shlokas proving Swarna Prashana or Triphala originated in India.</li>
+                  <li><strong>Landmark Biopiracy Defense</strong>: How did ancient texts defeat the USPTO Turmeric (US 5,401,504) and EPO Neem (EP 0436257) patents?</li>
+                  <li><strong>Regulatory Licensing</strong>: What is the Rule 158-B licensing pathway for classical vs. proprietary ASU drugs?</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <!-- QUICK QUERY SUGGESTIONS -->
+          <div class="quick-prompts">
+            <span class="prompt-chip" data-prompt="Can I patent a wound healing cream with Curcuma longa and honey under Indian Patent Law?">
+              🌿 Turmeric Wound Healing Patent?
+            </span>
+            <span class="prompt-chip" data-prompt="क्या नीम (Azadirachta indica) का चर्म रोग हेतु पेटेंट मिल सकता है?">
+              🇮🇳 क्या नीम का पेटेंट मिल सकता है?
+            </span>
+            <span class="prompt-chip" data-prompt="Show classical shloka proof for Swarna Prashana in Kashyapa Samhita and its prior art status.">
+              📜 Swarna Prashana Provenance
+            </span>
+            <span class="prompt-chip" data-prompt="Explain the EPO Neem patent revocation case and how traditional knowledge defeated it.">
+              ⚖️ EPO Neem Case Precedent
+            </span>
+            <span class="prompt-chip" data-prompt="What are the regulatory requirements under Rule 158-B for proprietary Ashwagandha syrup?">
+              📋 Rule 158-B ASU Licensing
+            </span>
+          </div>
+
+          <!-- INPUT FORM -->
+          <form class="chat-input-form" id="chat-form">
+            <div class="input-wrapper">
+              <input type="text" id="chat-input" placeholder="Ask about Ayurvedic Patenting, Shlokas, or Biopiracy (English / हिन्दी)..." autocomplete="off" required>
+              <button type="submit" class="btn-send" id="btn-send">
+                <i class="fa-solid fa-paper-plane"></i>
+              </button>
+            </div>
+          </form>
+        </div>
+
+        <!-- LIVE CITATIONS DRAWER -->
+        <aside class="citations-pane glass-panel 3d-tilt-panel" data-tilt>
+          <div class="citations-header">
+            <div class="title-with-badge">
+              <i class="fa-solid fa-scroll text-saffron"></i>
+              <h3>Authoritative Source Citations</h3>
+            </div>
+            <span class="citation-count-badge" id="citation-count">0 Sources</span>
+          </div>
+          <p class="citations-sub">Verified against 21 Ancestral Samhita Treatises, API Monographs, and Patent Statutes.</p>
+
+          <div class="citations-list" id="citations-list">
+            <div class="empty-citations">
+              <i class="fa-solid fa-book-open text-saffron"></i>
+              <p>Ask a question to see real-time verified citations linking classical Sanskrit shlokas, Indian Patent sections, and landmark biopiracy case records.</p>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ================= TAB 2: ANCESTRAL PROVENANCE E-DOCUMENTS (21) ================= -->
+    <section class="tab-content" id="tab-provenance">
+      <div class="provenance-layout">
+        <!-- PROVENANCE HEADER -->
+        <div class="provenance-hero glass-panel" data-tilt>
+          <div class="hero-text-wrap">
+            <div class="sovereign-stamp">
+              <i class="fa-solid fa-shield-halved"></i>
+              <span>CERTIFIED INDIAN PROVENANCE REPOSITORY</span>
+            </div>
+            <h2>Ancestral Indian Medicine Provenance & Prior-Art Shield</h2>
+            <p>
+              Archival e-documents proving that world-famous herbal medicines and classical formulations were authored by ancient Indian sages in India between <strong>1000 BCE and the 18th Century CE</strong>. This public domain heritage serves as unassailable prior art defeating international biopiracy.
+            </p>
+          </div>
+          <div class="provenance-stats">
+            <div class="p-stat"><span class="p-val">21</span><span class="p-lbl">Historical E-Documents</span></div>
+            <div class="p-stat"><span class="p-val">3,000+</span><span class="p-lbl">Years of Provenance</span></div>
+            <div class="p-stat"><span class="p-val">100%</span><span class="p-lbl">Prior-Art Protection</span></div>
+          </div>
+        </div>
+
+        <!-- FILTER BAR -->
+        <div class="provenance-controls glass-panel">
+          <div class="search-box">
+            <i class="fa-solid fa-magnifying-glass text-saffron"></i>
+            <input type="text" id="provenance-search" placeholder="Search by Herb, Shloka keyword, Treatise (e.g. Charaka, Sushruta, Haridra)...">
+          </div>
+          <div class="era-filters" id="era-filters">
+            <button class="filter-btn active" data-era="ALL">All Eras</button>
+            <button class="filter-btn" data-era="Vedic">1000 BCE – 600 BCE (Vedic/Classical)</button>
+            <button class="filter-btn" data-era="Medieval">7th – 14th Century CE (Medieval)</button>
+            <button class="filter-btn" data-era="Modern">16th – 18th Century CE (Nighantu/Rasashastra)</button>
+          </div>
+        </div>
+
+        <!-- 3D GRID OF ANCESTRAL E-DOCUMENTS -->
+        <div class="provenance-grid" id="provenance-grid">
+          <!-- Dynamically injected from ancestral_medicine_provenance.json -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= TAB 3: SECTION 3(p) PATENTABILITY ANALYZER ================= -->
+    <section class="tab-content" id="tab-patent">
+      <div class="patent-layout">
+        <!-- FORM PANE -->
+        <div class="glass-panel patent-input-pane" data-tilt>
+          <div class="panel-header">
+            <i class="fa-solid fa-scale-balanced text-saffron"></i>
+            <div>
+              <h3>Formulation & Claim Patentability Evaluator</h3>
+              <p>Evaluates claims against Section 3(p) (Traditional Knowledge), Section 3(d) (Efficacy), and Section 3(e) (Mere Admixture).</p>
+            </div>
+          </div>
+
+          <form id="patent-form" class="patent-form">
+            <div class="form-group">
+              <label for="patent-title">Invention Title <span class="required">*</span></label>
+              <input type="text" id="patent-title" placeholder="e.g. Synergistic Polyherbal Composition for Accelerated Diabetic Wound Healing" required>
+            </div>
+
+            <div class="form-group">
+              <label for="patent-abstract">Abstract / Summary</label>
+              <textarea id="patent-abstract" rows="2" placeholder="Describe the formulation, extracts used, and therapeutic mechanism..."></textarea>
+            </div>
+
+            <div class="form-group">
+              <label for="patent-ingredients">Key Botanical Ingredients (comma separated) <span class="required">*</span></label>
+              <input type="text" id="patent-ingredients" placeholder="e.g. Curcuma longa (Haridra), Azadirachta indica (Neem), Withania somnifera" required>
+            </div>
+
+            <div class="form-group">
+              <label for="patent-use">Proposed Indication / Claim <span class="required">*</span></label>
+              <input type="text" id="patent-use" placeholder="e.g. Topical wound healing, anti-inflammatory, anti-diabetic" required>
+            </div>
+
+            <div class="form-group">
+              <label for="patent-claims">Specific Claim Language (Optional)</label>
+              <textarea id="patent-claims" rows="2" placeholder="e.g. Claim 1: A composition comprising 10% Curcuma longa extract and 5% Piperine..."></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-sovereign btn-block" id="btn-analyze-patent">
+              <i class="fa-solid fa-gavel"></i> Run Section 3(p) Patentability Audit
+            </button>
+          </form>
+        </div>
+
+        <!-- RESULTS PANE -->
+        <div class="glass-panel patent-results-pane" id="patent-results">
+          <div class="empty-state-results">
+            <i class="fa-solid fa-scale-balanced icon-large text-saffron"></i>
+            <h4>Ready to Audit Patent Claims</h4>
+            <p>Enter your formulation details on the left to evaluate Traditional Knowledge anticipation against 21 classical treatises and 4.3L TKDL records.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= TAB 4: BIOPIRACY & NBA SCANNER ================= -->
+    <section class="tab-content" id="tab-biopiracy">
+      <div class="biopiracy-layout">
+        <div class="glass-panel biopiracy-input-pane" data-tilt>
+          <div class="panel-header">
+            <i class="fa-solid fa-earth-americas text-emerald"></i>
+            <div>
+              <h3>International Biopiracy & NBA Compliance Scanner</h3>
+              <p>Screen domestic and international patent applications (USPTO/EPO/WIPO) for unauthorized commercialization of Indian biological resources.</p>
+            </div>
+          </div>
+
+          <form id="biopiracy-form" class="patent-form">
+            <div class="form-row">
+              <div class="form-group">
+                <label for="bio-jurisdiction">Filing Jurisdiction</label>
+                <select id="bio-jurisdiction">
+                  <option value="USPTO (United States)">USPTO (United States)</option>
+                  <option value="EPO (European Patent Office)">EPO (European Patent Office)</option>
+                  <option value="WIPO / PCT">WIPO / PCT International</option>
+                  <option value="JPO (Japan)">JPO (Japan)</option>
+                  <option value="Indian Patent Office (CGPDTM)">Indian Patent Office (CGPDTM)</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label for="bio-country">Applicant Country of Origin</label>
+                <input type="text" id="bio-country" value="United States" required>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="bio-resources">Biological Resources Sourced <span class="required">*</span></label>
+              <input type="text" id="bio-resources" placeholder="e.g. Azadirachta indica (Neem), Curcuma longa, Withania somnifera" required>
+            </div>
+
+            <div class="form-group">
+              <label for="bio-summary">Claimed Method / Application Summary <span class="required">*</span></label>
+              <textarea id="bio-summary" rows="3" placeholder="e.g. Hydrophobic extract of neem oil for plant fungal protection or skin whitening..." required></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-emerald btn-block" id="btn-scan-biopiracy">
+              <i class="fa-solid fa-shield-virus"></i> Execute Sovereign Biopiracy Scan
+            </button>
+          </form>
+        </div>
+
+        <div class="glass-panel biopiracy-results-pane" id="biopiracy-results">
+          <div class="empty-state-results">
+            <i class="fa-solid fa-shield-halved icon-large text-emerald"></i>
+            <h4>Sovereign Bio-Defense Scanner Ready</h4>
+            <p>Enter filing details to verify compliance with Section 6 of the Biological Diversity Act 2002, Access & Benefit Sharing (ABS), and TKDL prior-art records.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= TAB 5: PHARMACOPOEIA & SHLOKAS ================= -->
+    <section class="tab-content" id="tab-corpus">
+      <div class="corpus-layout">
+        <div class="corpus-header-bar glass-panel">
+          <div class="search-box">
+            <i class="fa-solid fa-magnifying-glass text-saffron"></i>
+            <input type="text" id="corpus-search" placeholder="Search botanical name, Sanskrit term (e.g. Haridra, Vrana), or formulation...">
+          </div>
+          <div class="category-filters" id="category-filters">
+            <button class="filter-btn active" data-category="ALL">All Documents (45)</button>
+            <button class="filter-btn" data-category="Ancestral Indian Medicine Provenance">Ancestral Provenance</button>
+            <button class="filter-btn" data-category="Ayurvedic Pharmacopoeia of India">Pharmacopoeia</button>
+            <button class="filter-btn" data-category="Classical Ayurvedic Formulation">Classical Formulations</button>
+            <button class="filter-btn" data-category="Patent Law">Patent Laws</button>
+            <button class="filter-btn" data-category="Landmark Biopiracy Precedent">Biopiracy Precedents</button>
+          </div>
+        </div>
+
+        <div class="corpus-grid" id="corpus-grid">
+          <!-- Dynamically populated document cards -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= TAB 6: TELEMETRY & PRESENTATION ================= -->
+    <section class="tab-content" id="tab-telemetry">
+      <div class="telemetry-layout">
+        <!-- STATS CARDS -->
+        <div class="stats-grid">
+          <div class="stat-card glass-panel" data-tilt>
+            <div class="stat-icon saffron"><i class="fa-solid fa-landmark-dome"></i></div>
+            <div class="stat-info">
+              <span class="stat-value" id="stat-ancestral-docs">21</span>
+              <span class="stat-label">Ancestral Proof E-Documents</span>
+            </div>
+          </div>
+          <div class="stat-card glass-panel" data-tilt>
+            <div class="stat-icon emerald"><i class="fa-solid fa-database"></i></div>
+            <div class="stat-info">
+              <span class="stat-value" id="stat-total-docs">45</span>
+              <span class="stat-label">Codified Canonical Texts</span>
+            </div>
+          </div>
+          <div class="stat-card glass-panel" data-tilt>
+            <div class="stat-icon navy"><i class="fa-solid fa-layer-group"></i></div>
+            <div class="stat-info">
+              <span class="stat-value" id="stat-total-chunks">45</span>
+              <span class="stat-label">Indexed Semantic Chunks</span>
+            </div>
+          </div>
+          <div class="stat-card glass-panel" data-tilt>
+            <div class="stat-icon gold"><i class="fa-solid fa-language"></i></div>
+            <div class="stat-info">
+              <span class="stat-value" id="stat-lexicon-terms">2,208+</span>
+              <span class="stat-label">Multilingual Lexicon Terms</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- HACKATHON SLIDE DECK VIEWER & PITCH CONTROL -->
+        <div class="deck-viewer-wrapper glass-panel">
+          <div class="deck-header">
+            <div class="title-with-badge">
+              <i class="fa-solid fa-presentation-screen text-saffron"></i>
+              <h3>SIH Presentation & Pitch Command Center</h3>
+            </div>
+            <div class="deck-controls">
+              <span class="slide-indicator" id="slide-num">Slide 1 / 18</span>
+              <button class="btn btn-sm btn-outline" id="btn-prev-slide"><i class="fa-solid fa-chevron-left"></i></button>
+              <button class="btn btn-sm btn-outline" id="btn-next-slide"><i class="fa-solid fa-chevron-right"></i></button>
+            </div>
+          </div>
+
+          <div class="slide-content-box" id="slide-content-box">
+            <!-- Rendered slide content -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- 3D PALM-LEAF PARCHMENT MODAL FOR ANCESTRAL PROVENANCE SHLOKAS -->
+  <div class="modal-overlay" id="doc-modal">
+    <div class="modal-card palm-leaf-modal glass-panel">
+      <div class="modal-header">
+        <div class="modal-title-wrap">
+          <div class="modal-sovereign-tag">
+            <i class="fa-solid fa-stamp text-saffron"></i>
+            <span id="modal-category">Ancient Indian Medical Provenance</span>
+          </div>
+          <h3 id="modal-title">Document Title</h3>
+        </div>
+        <button class="btn-close" id="btn-close-modal"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+      <div class="modal-body" id="modal-body">
+        <!-- Content injected here -->
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
